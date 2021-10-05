@@ -5,16 +5,17 @@
 
 
 <div align="center">
-  <a href="https://github.com/tcharlesdavilassen">
+  <a href="https://github.com/TcharlesDaviLassen">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tcharlesdavilassen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcharlesdavilassen&layout=compact&langs_count=4&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="tcharlesdavilassen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="tcharlesdavilassen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="tcharlesdavilassen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="tcharlesdavilassen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="TcharlesDaviLassen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="TcharlesDaviLassen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="TcharlesDaviLassen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="TcharlesDaviLassen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
 </div>
 
 ##
