@@ -1,7 +1,7 @@
 - 👋 Olá, sou Tcharles Lassen
 - 🌱 No momento estudo JAVA, HTML e CSS
 - 💞️ Procuro contribuir para o desenvolvimento e criação de programas 
-- 📫 Me encontrar pelo número (51)989460084 ou pelo e-mail tcharlesdavilassen@gmail.com 
+- 📫 Me encontrar pelo número (51)989460084
 
 ##
 
@@ -10,7 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tcharlesdavilassen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <div>
  
-## Linguagens mais utilizadas nos projetos
+## Linguagens utilizadas nos projetos
 <div style="display: inline_block"><br>
   <img align="center" alt="TcharlesDaviLassen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="TcharlesDaviLassen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
