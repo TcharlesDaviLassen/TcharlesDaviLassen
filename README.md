@@ -5,21 +5,39 @@
 
 ##
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/TcharlesDaviLassen">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tcharlesdavilassen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <div>
- 
-## Linguagens utilizadas nos projetos
-<div style="display : inline_block"><br>
-  <img align="center" alt="TcharlesDaviLassen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TcharlesDaviLassen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="TcharlesDaviLassen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--      <img align="center" alt="TcharlesDaviLassen-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
-  <img align="center" alt="TcharlesDaviLassen-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="TcharlesDaviLassen-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+    
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="tcharlesdavilassen's stats"/>
+    
+ </p>
+    
+<br><br>
+    
+## 🛠 &nbsp;Tech Stack 
+    
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 
+
+<br><br>
+
+<!-- <div style="display : inline_block"><br> -->
+<!--   <img align="center" alt="TcharlesDaviLassen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+<!--     <img align="center" alt="TcharlesDaviLassen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
+<!--      <img align="center" alt="TcharlesDaviLassen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
+<!--      <img align="center" alt="TcharlesDaviLassen-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
+<!--   <img align="center" alt="TcharlesDaviLassen-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
+<!--   <img align="center" alt="TcharlesDaviLassen-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> -->
+<!-- </div> -->
+<br><br>
+    
 ##
   
 <div>
