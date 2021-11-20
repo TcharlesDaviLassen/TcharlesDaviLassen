@@ -8,7 +8,8 @@
   <a href="https://github.com/TcharlesDaviLassen">
     
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark" alt="tcharlesdavilassen's stats"/>
-<!--     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&layout=compact&theme=vision-friendly-dark"  -->
+<!--     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&layout=compact&theme=vision-friendly-dark"/>  -->
+      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
  </p>
     
 <br><br>
