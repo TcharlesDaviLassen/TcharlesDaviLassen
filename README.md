@@ -1,7 +1,6 @@
 - 👋 Olá, sou Tcharles Lassen
-- 🌱 No momento estudo JAVASCRIPT, HTML e CSS
-- 💞️ Procuro contribuir para o desenvolvimento e criação de programas 
-- 📫 Me encontrar pelo número (51)989460084
+- 🌱 Adquirindo conhecimento JAVASCRIPT, HTML, CSS e VISUAL STUDIO CODE
+- 💞️ Contribuir para o melhor nível de desenvolvimento e criação de programas 
 
 ##
 
