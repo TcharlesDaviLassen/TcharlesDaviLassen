@@ -1,6 +1,6 @@
 - 👋 Olá, sou Tcharles Lassen
-- 🌱 Adquirindo conhecimento JAVASCRIPT, HTML, CSS e VISUAL STUDIO CODE
-- 💞️ Contribuir para o melhor nível de desenvolvimento e criação de programas 
+- 🌱 Adquirindo conhecimento &nbsp; JavaScript, &nbsp; HTML, &nbsp; CSS, &nbsp; Java, &nbsp; React.JS, &nbsp; Next.JS, &nbsp; Flutter &nbsp; e &nbsp; Visual Studio Code.
+- 💞️ Contribuir para o melhor nível de desenvolvimento e criação de programas. 
 
 ##
 
@@ -16,6 +16,11 @@
     
 ## 🛠 &nbsp;Tech Stack 
     
+
+<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; -->
+<!-- ![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp; -->
+<!-- ![Next.JS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; -->
+<!-- ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -23,7 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 
 
 <br><br>
