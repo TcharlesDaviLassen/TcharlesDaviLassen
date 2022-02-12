@@ -1,16 +1,20 @@
-- 👋 Olá, sou Tcharles Lassen
-- 🌱 Adquirindo conhecimento &nbsp; JavaScript, &nbsp; HTML, &nbsp; CSS, &nbsp; Java, &nbsp; React.JS, &nbsp; Next.JS, &nbsp; Flutter &nbsp; e &nbsp; Visual Studio Code.
-- 💞️ Contribuir para o melhor nível de desenvolvimento e criação de programas. 
+- 👋 Olá, sou Tcharles Lassen <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="20px" margin="20px">
+<!-- - 🌱 Adquirindo conhecimento &nbsp; JavaScript, &nbsp; HTML, &nbsp; CSS, &nbsp; Java, &nbsp; React.JS, &nbsp; Next.JS, &nbsp; Flutter &nbsp; e &nbsp; Visual Studio Code. -->
+<!-- - 💞️ Contribuir para o melhor nível de desenvolvimento e criação de programas.  -->
 
 ##
 
-<p align="center">
+<p style = display: "inline block" align = "justify" >
+  <img width = "420px" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark"><img width = "420px" src="https://github-readme-streak-stats.herokuapp.com/?user=TcharlesDaviLassen&theme=vision-friendly-dark"> 
+   <p/>
+
+<!-- <p align="center">
   <a href="https://github.com/TcharlesDaviLassen">
     
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark" alt="tcharlesdavilassen's stats"/>
 <!--     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&layout=compact&theme=vision-friendly-dark"/>  -->
-      <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&layout=compact&langs_count=6&theme=vision-friendly-dark"/>
- </p>
+<!--       <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&layout=compact&langs_count=6&theme=vision-friendly-dark"/> -->
+<!--     </p>  --> 
     
 <br><br>
     
@@ -51,7 +55,13 @@
   <a href="https://www.linkedin.com/in/tcharles-lassen-5408a0140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:contatotcharlesdavilassen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<!-- <div style = display: "inline block" align = "center" margin = "0px"> 
+   <img style = display: "inline block" align = "left" width = "390" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&theme=blue-green">
+   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <div/> -->
   
+  ![Snake animation](https://github.com/rafaballerini/TcharlesDaviLassen/blob/output/github-contribution-grid-snake.svg)
 <!---
 TcharlesDaviLassen/TcharlesDaviLassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
