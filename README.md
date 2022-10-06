@@ -20,8 +20,6 @@
     
 ## 🛠 &nbsp;Tech Stack 
     
-
-
 <!-- ![Next.JS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; -->
 <!-- ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; -->
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;-->
