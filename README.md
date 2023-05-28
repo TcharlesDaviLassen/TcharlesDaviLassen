@@ -32,7 +32,7 @@
 <!-- ![Next.JS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; -->
 <!-- ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; -->
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
