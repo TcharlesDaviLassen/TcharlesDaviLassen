@@ -54,7 +54,7 @@
      <img align="center" alt="TcharlesDaviLassen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="TcharlesDaviLassen-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="TcharlesDaviLassen-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="TcharlesDaviLassen-REACT NATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg">
+    <img align="center" alt="TcharlesDaviLassen-REACTNATIVE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg">
   <img align="center" alt="TcharlesDaviLassen-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
