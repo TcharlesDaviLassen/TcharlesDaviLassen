@@ -4,10 +4,15 @@
 
 ##
 
-<p style = display: "inline block" align = "justify" >
+<!-- <p style = display: "inline block" align = "justify" >
   <img width = "420px" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark">
   <img width = "420px" src="https://github-readme-streak-stats.herokuapp.com/?user=TcharlesDaviLassen&theme=vision-friendly-dark"> 
-<p/>
+<p/> -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=jonasdhein" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jonasdhein" height="150" alt="languages graph"  />
+</div>
 
 <!-- <p align="center">
   <a href="https://github.com/TcharlesDaviLassen">
