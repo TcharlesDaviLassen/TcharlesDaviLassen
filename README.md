@@ -1,8 +1,8 @@
-<h1>Tcharles Lassen<img </h1> src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="20px" margin="20px">
+<!--👋 --> <h1>Tcharles Lassen</h1> <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="20px" margin="20px">
 <!-- - 🌱 Adquirindo conhecimento &nbsp; JavaScript, &nbsp; HTML, &nbsp; CSS, &nbsp; Java, &nbsp; React.JS, &nbsp; Next.JS, &nbsp; Flutter &nbsp; e &nbsp; Visual Studio Code. -->
 <!-- - 💞️ Contribuir para o melhor nível de desenvolvimento e criação de programas.  -->
 
-##
+<!-- ## -->
 <!-- <div align="center">
   <p style = display: "inline block" align = "justify" >
     <img width = "420px" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark">
