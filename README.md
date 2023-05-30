@@ -7,7 +7,7 @@
 <div align="center">
 <!--   <p style = display: "inline block" align = "justify" > -->
     <img width = "420px" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark">
-    <img width = "420px" higth="400" src="https://github-readme-streak-stats.herokuapp.com/?user=TcharlesDaviLassen&theme=vision-friendly-dark"> 
+    <img width = "420px" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=TcharlesDaviLassen&theme=vision-friendly-dark"> 
 <!--   <p/>  -->
 </div> 
 
