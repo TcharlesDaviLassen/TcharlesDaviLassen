@@ -73,7 +73,7 @@
 
 ##
 
-![Snake animation](https://github.com/TcharlesDaviLassen/TcharlesDaviLassen/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/TcharlesDaviLassen/TcharlesDaviLassen/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- <div style = display: "inline block" align = "center" margin = "0px"> 
    <img style = display: "inline block" align = "left" width = "390" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&theme=blue-green">
