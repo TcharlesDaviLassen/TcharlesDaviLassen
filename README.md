@@ -78,12 +78,12 @@
 
 <!-- <br><br> -->
 
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TcharlesDaviLassen&theme=midnight_purple" />
 </p>
-<br/><br/>
+<br/><br/> -->
 
 <!-- ![Snake animation](https://github.com/TcharlesDaviLassen/TcharlesDaviLassen/blob/output/github-contribution-grid-snake.svg) -->
 
