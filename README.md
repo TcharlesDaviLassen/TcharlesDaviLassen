@@ -73,6 +73,13 @@
 
 ##
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TcharlesDaviLassen&theme=dark" />
+</p>
+<br/><br/>
+
 <!-- ![Snake animation](https://github.com/TcharlesDaviLassen/TcharlesDaviLassen/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- <div style = display: "inline block" align = "center" margin = "0px"> 
@@ -80,7 +87,10 @@
    <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     <div/> -->
     
-    
+<br/><br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TcharlesDaviLassen&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TcharlesDaviLassen&theme=dark)
   
 <!---
 TcharlesDaviLassen/TcharlesDaviLassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
