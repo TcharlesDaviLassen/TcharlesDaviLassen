@@ -10,9 +10,16 @@
 </div>  -->
 
 <div align="center">
+    
 <!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false&username=TcharlesDaviLassen" height="150" alt="stats graph"  /> -->
-  <img width="360" height="150" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&username=TcharlesDaviLassen" height="150" alt="languages graph"  />
+    
+<img width="360" height="150" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&username=TcharlesDaviLassen" height="150" alt="languages graph"/>
+    
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TcharlesDaviLassen&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TcharlesDaviLassen&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TcharlesDaviLassen&theme=dark) -->
+
 </div>
 
 
@@ -71,12 +78,10 @@
 
 <!-- <br><br> -->
 
-##
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TcharlesDaviLassen&theme=dark" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TcharlesDaviLassen&theme=midnight_purple" />
 </p>
 <br/><br/>
 
@@ -87,11 +92,7 @@
    <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     <div/> -->
     
-<br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TcharlesDaviLassen&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TcharlesDaviLassen&theme=dark)
-  
 <!---
 TcharlesDaviLassen/TcharlesDaviLassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
