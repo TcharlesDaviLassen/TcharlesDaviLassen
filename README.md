@@ -35,9 +35,11 @@
 
 ---
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark" width="360" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&username=TcharlesDaviLassen" height="150" alt="languages graph"/>
+<div align="left">
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark" width="360" height="150" /> -->
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=620&langs_count=5&theme=vision-friendly-dark&hide_border=false&username=TcharlesDaviLassen" height="150" alt="languages graph"/> -->
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=TcharlesDaviLassen&layout=compact&hide_border=true&title_color=ffb000&text_color=ffffff&bg_color=0d1117" />
 </div>
 
     
