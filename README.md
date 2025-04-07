@@ -1,7 +1,13 @@
 # Bem-vindo ao meu perfil do GitHub!
 
+<div>
+  <a href="https://www.linkedin.com/in/tcharles-lassen-5408a0140/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:tcharlesdavilassen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## Meu nome é Tcharles Lassen
 #### 👨‍💻 Um pouco sobre mim:
-- 💡 Sou Tcharles, desenvolvedor de software apaixonado por criar soluções criativas e ainda mais quando inovadoras.
+- 💡 Sou desenvolvedor de software possuo certo apreço por criar soluções criativas e ainda mais quando inovadoras.
 - 🛠️ Experiência com diversas linguagens de programação e marcação.
 - 🌐 Construção e manutenção de sites e aplicativos modernos.
 - 🗄️ Modelagem, criação e manutenção de bancos de dados relacionais e não-relacionais.
@@ -26,12 +32,6 @@
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark">
     <img width="420" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=TcharlesDaviLassen&theme=vision-friendly-dark"> 
 </div>  -->
-
-### Contatos
-<div>
-  <a href="https://www.linkedin.com/in/tcharles-lassen-5408a0140/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:tcharlesdavilassen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 ---
 
