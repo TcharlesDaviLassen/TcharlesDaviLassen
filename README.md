@@ -1,22 +1,20 @@
-<!-- # Olá, eu sou Tcharles Davi Lassen! 👋 -->
-
 # Bem-vindo ao meu perfil do GitHub!
-<!-- Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de aprender coisas novas e contribuir para projetos open source. -->
+
+#### 👨‍💻 Um pouco sobre mim:
+- 💡 Sou Tcharles, desenvolvedor de software apaixonado por criar soluções criativas e ainda mais quando inovadoras.
+- 🛠️ Experiência com diversas linguagens de programação e marcação.
+- 🌐 Construção e manutenção de sites e aplicativos modernos.
+- 🗄️ Modelagem, criação e manutenção de bancos de dados relacionais e não-relacionais.
+- 🧩 Gosto de resolver desafios em diferentes áreas: web, mobile, banco de dados, Node.js e Java Spring Boot.
+- 🤝 Valorizo a colaboração e estou sempre aberto a aprender com a comunidade.
+- 📬 Fique à vontade para trocar uma ideia sobre desenvolvimento, tecnologia ou qualquer outro assunto interessante!
 
 <!--
-#### Vou me apresentar um pouco por aqui!
-- Sou Tcharles, desenvolvedor de software apaixonado por criar e desenvolver soluções e ainda mais quando inovadoras.
-- Conhecimento e aplicação em diferentes linguagens de marcação.
-- Construção e manutenção de sites e aplicativos.
-- Construção, modelagem, criação e manutenção de bancos de dados.
-- Contribuição na solução de problemas relacionados a web, bancos de
-dados, mobile, node.js e java Spring Boot.
-- 👯 Colaborar e aprender com a comunidade.
-- 💬 Sinta-se à vontade para conversar sobre desenvolvimento, novas tecnologias ou qualquer outro assunto relacionado!
+    - 🌱 Sempre aprendendo: atualmente estou aprimorando meus conhecimentos em [tecnologia/framework].
+    - 🔭 Atualmente, estou focado em [área/tecnologia que você está estudando ou trabalhando].
+    - 👯 Colaborar e aprender com a comunidade.
+    - 💬 Sinta-se à vontade para conversar sobre desenvolvimento, novas tecnologias ou qualquer outro assunto relacionado!
 -->
-
-<!-- - 🔭 Atualmente, estou focado em [área/tecnologia que você está estudando ou trabalhando]. -->
-<!-- - 🌱 Sempre aprendendo: atualmente estou aprimorando meus conhecimentos em [tecnologia/framework].
 
 <!--👋 --> <!-- <h1>Tcharles Lassen</h1> -->
 <!-- <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="20px" margin="20px"> -->
@@ -29,27 +27,19 @@ dados, mobile, node.js e java Spring Boot.
     <img width="420" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=TcharlesDaviLassen&theme=vision-friendly-dark"> 
 </div>  -->
 
-<div align="center">
-    
-<!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false&username=TcharlesDaviLassen" height="150" alt="stats graph"  /> -->
-    
-<img src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark" width="360" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&username=TcharlesDaviLassen" height="150" alt="languages graph"/>
-    
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TcharlesDaviLassen&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TcharlesDaviLassen&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TcharlesDaviLassen&theme=dark) -->
-
+### Contatos
+<div>
+  <a href="https://www.linkedin.com/in/tcharles-lassen-5408a0140/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:tcharlesdavilassen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+---
 
-<!-- <p align="center">
-  <a href="https://github.com/TcharlesDaviLassen">
-    
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark" alt="tcharlesdavilassen's stats"/>
-<!--     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&layout=compact&theme=vision-friendly-dark"/>  -->
-<!--       <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesDaviLassen&layout=compact&langs_count=6&theme=vision-friendly-dark"/> -->
-<!--     </p>  --> 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TcharlesDaviLassen&show_icons=true&theme=vision-friendly-dark" width="360" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&username=TcharlesDaviLassen" height="150" alt="languages graph"/>
+</div>
+
     
 <br />
 <br />
@@ -59,22 +49,25 @@ dados, mobile, node.js e java Spring Boot.
 <!-- ![Next.JS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; -->
 <!-- ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; -->
 
-<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)&nbsp;
-![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postgre](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp; -->
+<!--
+    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)&nbsp;
+    ![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+    ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+    ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+    ![Postgre](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
+    ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp; 
+-->
 
 
 <!-- <br><br> -->
 
-<!-- <div style="display : inline_block"><br>
+<!-- 
+<div style="display : inline_block"><br>
     <img align="center" alt="TcharlesDaviLassen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="TcharlesDaviLassen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="TcharlesDaviLassen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -89,12 +82,6 @@ dados, mobile, node.js e java Spring Boot.
 <br /> -->
     
 <!-- ## -->
-  
-<div>
-  <a href="https://instagram.com/tcharlesdavi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tcharles-lassen-5408a0140/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:tcharlesdavilassen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 <!-- <br><br> -->
 
