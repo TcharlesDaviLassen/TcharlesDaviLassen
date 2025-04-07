@@ -1,4 +1,24 @@
-<!--👋 --> <h1>Tcharles Lassen</h1> 
+<!-- # Olá, eu sou Tcharles Davi Lassen! 👋 -->
+
+# Bem-vindo ao meu perfil do GitHub!
+<!-- Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de aprender coisas novas e contribuir para projetos open source. -->
+
+<!--
+#### Vou me apresentar um pouco por aqui!
+- Sou Tcharles, desenvolvedor de software apaixonado por criar e desenvolver soluções e ainda mais quando inovadoras.
+- Conhecimento e aplicação em diferentes linguagens de marcação.
+- Construção e manutenção de sites e aplicativos.
+- Construção, modelagem, criação e manutenção de bancos de dados.
+- Contribuição na solução de problemas relacionados a web, bancos de
+dados, mobile, node.js e java Spring Boot.
+- 👯 Colaborar e aprender com a comunidade.
+- 💬 Sinta-se à vontade para conversar sobre desenvolvimento, novas tecnologias ou qualquer outro assunto relacionado!
+-->
+
+<!-- - 🔭 Atualmente, estou focado em [área/tecnologia que você está estudando ou trabalhando]. -->
+<!-- - 🌱 Sempre aprendendo: atualmente estou aprimorando meus conhecimentos em [tecnologia/framework].
+
+<!--👋 --> <!-- <h1>Tcharles Lassen</h1> -->
 <!-- <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="20px" margin="20px"> -->
 <!-- - 🌱 Adquirindo conhecimento &nbsp; JavaScript, &nbsp; HTML, &nbsp; CSS, &nbsp; Java, &nbsp; React.JS, &nbsp; Next.JS, &nbsp; Flutter &nbsp; e &nbsp; Visual Studio Code. -->
 <!-- - 💞️ Contribuir para o melhor nível de desenvolvimento e criação de programas.  -->
